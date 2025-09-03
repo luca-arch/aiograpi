@@ -19,16 +19,16 @@ Features:
 
 requirements = [
     "httpx==0.28.1",
-    "orjson==3.10.12",
-    "pydantic==2.10.6",
+    "orjson==3.11.1",
+    "pydantic==2.11.7",
     "moviepy==1.0.3",
-    "pycryptodomex==3.21.0",
+    "pycryptodomex==3.23.0",
     "zstandard==0.23.0",
 ]
 
 setup(
     name="aiograpi",
-    version="0.0.3",
+    version="0.0.4",
     author="Mr.Robot",
     author_email="mr.robot@example.org",
     license="MIT",
